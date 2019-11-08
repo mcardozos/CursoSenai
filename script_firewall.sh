@@ -2,7 +2,7 @@
 
 #######################################
 # Script de Firewall
-# Criado por: Thiago Nogueira
+# Criado por: Turma Senai Valença
 # Data de criação: 25/03/15
 # Última modificação: 18/05/15
 #######################################
